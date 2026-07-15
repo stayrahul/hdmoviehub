@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="750" viewBox="0 0 500 750" fill="none">
-  <rect width="500" height="750" fill="#141414"/>
-  <rect x="2" y="2" width="496" height="746" rx="8" stroke="#333333" stroke-width="4" stroke-dasharray="10 10"/>
-  <path d="M250 325C222.386 325 200 347.386 200 375C200 402.614 222.386 425 250 425C277.614 425 300 402.614 300 375C300 347.386 277.614 325 250 325ZM250 405C233.431 405 220 391.569 220 375C220 358.431 233.431 345 250 345C266.569 345 280 358.431 280 375C280 391.569 266.569 405 250 405Z" fill="#333333"/>
-  <path d="M260 375L245 365V385L260 375Z" fill="#333333"/>
-  <text x="250" y="465" font-family="system-ui, sans-serif" font-size="24" font-weight="bold" fill="#333333" text-anchor="middle">NO POSTER</text>
-</svg>
