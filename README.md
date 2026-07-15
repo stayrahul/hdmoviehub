@@ -2,7 +2,7 @@
 
 The Ultimate Streaming Destination for Bollywood Blockbusters, Early Movie Releases, and premium streaming content.
 
-![HDMovieHub](public/no-poster.svg) <!-- Replace with a real screenshot if available -->
+![HDMovieHub](public/no-poster.png) <!-- Replace with a real screenshot if available -->
 
 ## 🌟 Features
 
